@@ -1,0 +1,15 @@
+.purple{
+	background: #ef9a9a
+}
+body {
+	background: #ffebee ;
+	font-family: 'Bellefair';
+	font-size: 22px;
+}
+
+a:link{
+	color: green;
+}
+a:hover {
+  color: hotpink;
+}
